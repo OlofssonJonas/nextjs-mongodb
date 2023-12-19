@@ -8,6 +8,8 @@
 
 # testing
 /coverage
+.rest
+.env
 
 # next.js
 /.next/
